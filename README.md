@@ -2,7 +2,7 @@
 - 👀 I’m interested in Video Games and Programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Coding
-- 📫 How to reach me don't
+- 📫 How to reach me: tonyl72@nycstudents.net
 
 <!---
 TonyLiuNub/TonyLiuNub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
